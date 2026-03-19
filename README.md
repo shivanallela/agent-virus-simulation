@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agent-Based Virus Simulation using Mesa
 
 ## Description
@@ -14,3 +15,7 @@ python model.py
 
 ## Learning Outcome
 Learned Agent-Based Modeling using Mesa.
+=======
+# agent-virus-simulation
+Agent-based virus spread simulation using Mesa (Python) demonstrating emergent behavior and probabilistic interactions.
+>>>>>>> 58d17e276fd9b626ba387b98a6d63a14b968f5fb
